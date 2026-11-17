@@ -1,0 +1,12 @@
+export 'src/model_manager.dart';
+export 'src/resource_failure.dart';
+export 'src/resource_storage.dart';
+export 'src/offline_resource_models.dart';
+export 'src/offline_resource_catalog.dart';
+export 'src/offline_resource_download_mirrors.dart';
+export 'src/offline_resource_install_jobs.dart';
+export 'src/speech_model_manager.dart';
+export 'src/sherpa_model_registry.dart';
+export 'src/speech_runtime_resource_registry.dart';
+export 'src/offline_resource_adapters.dart';
+export 'src/sherpa_runtime_model.dart';
